@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Cyberpunk city neon background",
+      "imageUrl": "https://picsum.photos/seed/cyber1/1920/1080",
+      "imageHint": "cyberpunk city"
+    },
+    {
+      "id": "script-preview-1",
+      "description": "FiveM QBCore Script Preview",
+      "imageUrl": "https://picsum.photos/seed/script1/800/600",
+      "imageHint": "gaming interface"
+    },
+    {
+      "id": "script-preview-2",
+      "description": "FiveM ESX Script Preview",
+      "imageUrl": "https://picsum.photos/seed/script2/800/600",
+      "imageHint": "coding matrix"
+    },
+    {
+      "id": "script-preview-3",
+      "description": "FiveM UI HUD Preview",
+      "imageUrl": "https://picsum.photos/seed/script3/800/600",
+      "imageHint": "hud display"
+    },
+    {
+      "id": "service-custom",
+      "description": "Custom Development Service",
+      "imageUrl": "https://picsum.photos/seed/dev/800/600",
+      "imageHint": "software developer"
+    }
+  ]
+}
